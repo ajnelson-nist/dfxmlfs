@@ -43,3 +43,8 @@ The `imgfile` option provides the path to the disk image that the XML file repre
 * Walking the directory tree *does* work.
 * Extracting file contents *somewhat* works.  Currently slow on big files.
 * Writing anywhere in the file system *will never* work.  This is meant to be a read-only file system.
+
+
+## Resources
+
+* [Presentation](http://www.dcc.ac.uk/sites/default/files/documents/IDCC17~/nelson-idcc2017.pdf) at [IDCC 2017](http://www.dcc.ac.uk/events/idcc17/programme).
